@@ -27,3 +27,5 @@ To launch the model run from the corresponding folder:
 ```
 python global_experiment.py
 ```
+
+If you have a question about this code, please contact me by afritzler449@gmail.com
