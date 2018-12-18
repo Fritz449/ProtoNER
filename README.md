@@ -2,7 +2,7 @@
 ### Few-shot classification in Named Entity Recognition Task
 -------------------------------------------------
 
-This is the code accompanying the paper "Few-shot classification in Named Entity Recognition Task" by Alexander Fritzler, Varvara Logacheva and Maksim Kretov.
+This is the code accompanying the paper ["Few-shot classification in Named Entity Recognition Task"](https://arxiv.org/abs/1812.06158) by Alexander Fritzler, Varvara Logacheva and Maksim Kretov.
 
 Please make sure you read the paper before you try to use or analyse this code.
 This repository contains 4 folders that allow you to run a specific model using Allennlp (v0.6.0) framework. 
